@@ -35,7 +35,11 @@
 ### 📈 GitHub Insights
 
 <div align="center">
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZuZWc2b2J2dDFtbXVyOGJzb3F2bDRvZ3ZlYW82bWFibjFhN2hzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif"  />
 
+###
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mahi11313&show_icons=true&theme=default&hide_border=true" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi11313&layout=compact&theme=default&hide_border=true" height="150" />
 <img src="https://streak-stats.demolab.com?user=Mahi11313&theme=default&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="150" />
